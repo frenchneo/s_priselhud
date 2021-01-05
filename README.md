@@ -1,4 +1,4 @@
-# prisel_hud_v1
+# s_priselhud
 Free HUD for Garry's Mod DarkRP<br/>
 Don't forget to enable hunger mod
 
